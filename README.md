@@ -1,5 +1,6 @@
 # Planilha para detalhar orçamento
-![GitHub](https://img.shields.io/badge/platform-MS%20Office%20%7C%20Excel-0B610B)
+![GitHub](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/language-Portugu%C3%AAs%20%5BPT--BR%5D-blue)
 ![GitHub](https://img.shields.io/github/license/cavichiolijr/excel_orcamento_capex_01)
 ![GitHub Repo stars](https://img.shields.io/github/stars/cavichiolijr/excel_orcamento_capex_01?style=social)
@@ -36,7 +37,7 @@ Ter o Microsoft Excel 2010 ou mais recente. Pode ser tanto a versão instalada o
 Apenas baixe o arquivo [OI_orcamento_simples.xlsx](./OI_orcamento_simples.xlsx) em qualquer diretório de sua escolha.
 
 ## Como utilizar
-<i>Artigo Wiki em elaboração.</i>
+<i>material em construção</i>
 
 # Autor
 <a href="https://github.com/cavichiolijr">
@@ -47,7 +48,6 @@ Apenas baixe o arquivo [OI_orcamento_simples.xlsx](./OI_orcamento_simples.xlsx) 
 Criado de forma simples para descomplicar a operação e dar mais eficiência na gestão.
 
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/odair-cavichioli-jr)
-[![social](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/odair)
 
 # Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).
