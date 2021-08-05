@@ -19,12 +19,15 @@ O objetivo dessa planilha é ajudar a organizar de orçamento (principalmente CA
     - cálculo de <i>saving</i>.
 
 # Demonstração da Aplicação
-
+![Screenshot](../main/images/exemplo_layout.jpg)
 
 # Começando
-## Pré-requisitos e como rodar a aplicação/testes
-## Tecnologias utilizadas
+## Pré-requisitos
+Ter o Microsoft Excel 2010 ou mais recente. Pode ser tanto a versão instalada ou <i>online</i>. 
+
 ## Instalação
+Apenas baixe o arquivo [OI_orcamento_simples.xlsx](../main/OI_orcamento_simples.xlsx) em qualquer diretório de sua escolha.
+
 ## Como utilizar
 
 # Contribuição
