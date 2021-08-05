@@ -37,7 +37,7 @@ Ter o Microsoft Excel 2010 ou mais recente. Pode ser tanto a versão instalada q
 Apenas baixe o arquivo [OI_orcamento_simples.xlsx](./OI_orcamento_simples.xlsx) em qualquer diretório de sua escolha.
 
 ## Como utilizar
-<i>material em construção</i>
+A descrição dos campos e orientações para utilizar a planilha estão no arquivo [manual.md](./manual.md).
 
 # Autor
 <a href="https://github.com/cavichiolijr">
