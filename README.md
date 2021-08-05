@@ -23,7 +23,7 @@ A utilização dessa planilha é indicada para uma gestão simples, flexissível
     - Validação de <i>forecast</i> ou <i>cash out</i>.
     - cálculo de <i>saving</i>.
 
-# Demonstração da Aplicação
+# Screenshot
 ![Screenshot](../main/images/exemplo_layout.jpg)
 
 # Começando
