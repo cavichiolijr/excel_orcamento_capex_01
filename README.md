@@ -16,7 +16,7 @@ A utilização da planilha é indicada para uma gestão simples, flexissível o 
 ## :white_check_mark: Funcionalidades:
 - Descrever informações gerais sobre a demanda.
 - Histórico de transferências de valores.
-- Fluxo de caixa dos custos planejados para o orçamento.
+- Detalhamento dos custos planejados para o orçamento.
 - Relação das notas fiscais faturadas.
 - Resumo com a consolidação de todas as informações para gestão do orçamento.
 
