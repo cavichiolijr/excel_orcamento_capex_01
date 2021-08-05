@@ -7,7 +7,7 @@
 
 O objetivo dessa planilha é ajudar a organizar de orçamento (principalmente CAPEX) de forma simples, detalhando o orçamento, relacionando o que foi faturado e um resumo consolidando tudo para a gestão.
 
-É indicada para ser utilizada para uma gestão simples, flexissível o suficiente para dar visibilidade sobre o total de orçamento e o saldo disponível após os pagamentos, sem obrigar a detalhar os custos antecipadamente. 
+A utilização dessa planilha é indicada para uma gestão simples, flexissível o suficiente para dar visibilidade sobre o total de orçamento e o saldo disponível após os pagamentos, sem obrigar a detalhar os custos antecipadamente. 
 
 # Características
 - :white_check_mark: Funcionalidades:
