@@ -1,6 +1,6 @@
 # Planilha para detalhar orçamento
-![GitHub](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-![GitHub](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/language-Portugu%C3%AAs%20%5BPT--BR%5D-blue)
 ![GitHub](https://img.shields.io/github/license/cavichiolijr/excel_orcamento_capex_01)
 ![GitHub Repo stars](https://img.shields.io/github/stars/cavichiolijr/excel_orcamento_capex_01?style=social)
@@ -28,7 +28,7 @@ A utilização dessa planilha é indicada para uma gestão simples, flexissível
 
 # Começando
 ## Pré-requisitos
-Ter o Microsoft Excel 2010 ou mais recente. Pode ser tanto a versão instalada ou <i>online</i>.
+Ter o Microsoft Excel 2010 ou mais recente. Pode ser tanto a versão instalada quanto a versão do <i>Office 360 Online</i>.
 
 ## Tecnologias utilizadas
 - Microsoft Excel 2010
@@ -45,9 +45,11 @@ Apenas baixe o arquivo [OI_orcamento_simples.xlsx](./OI_orcamento_simples.xlsx) 
 <br />
 <sub><b>Odair Cavichioli Jr.</b></sub></a> <a href="https://github.com/cavichiolijr" title="Odair Cavichioli Jr."></a>
 
-Criado de forma simples para descomplicar a operação e dar mais eficiência na gestão.
+Esse arquivo é um controle criado de forma simples para descomplicar a operação e dar mais eficiência na gestão.
 
-[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/odair-cavichioli-jr)
+No furuto, vou compartilhar controles mais complexos. Preciso de tempo para descatacterizar os dados sensíveis.
+
+Me chame no [Linkedin](https://br.linkedin.com/in/odair-cavichioli-jr) se precisar de ajuda. 
 
 # Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).
